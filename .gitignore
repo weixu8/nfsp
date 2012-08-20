@@ -6,8 +6,8 @@ cscope.*
 Makefile
 config.log
 config.status
-*yacc.*
-*lex.*
+*yacc.[ch]
+*lex.[ch]
 shell/proxy.ganeshell
 libtool
 include/config.h

@@ -1,0 +1,22 @@
+conf_yacc.lo conf_yacc.o: conf_yacc.c ../include/config.h analyse.h \
+  /usr/include/stdio.h /usr/include/sys/cdefs.h /usr/include/sys/_null.h \
+  /usr/include/sys/_types.h /usr/include/machine/_types.h \
+  /usr/include/string.h /usr/include/strings.h
+
+../include/config.h:
+
+analyse.h:
+
+/usr/include/stdio.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/sys/_null.h:
+
+/usr/include/sys/_types.h:
+
+/usr/include/machine/_types.h:
+
+/usr/include/string.h:
+
+/usr/include/strings.h:
