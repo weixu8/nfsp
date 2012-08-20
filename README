@@ -1,0 +1,8 @@
+On FreeBSD:
+git clone https://github.com/weixu8/nfsp
+cd nfsp && ./configure-xw && make 
+# To checkout: git pull
+# To commit:   git add <your changed files>
+               git commit
+	       git push origin master	
+
