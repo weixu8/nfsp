@@ -1,0 +1,75 @@
+main.o main.o: main.c ../include/config.h shell.h shell_types.h \
+  /usr/include/stdio.h /usr/include/sys/cdefs.h /usr/include/sys/_null.h \
+  /usr/include/sys/_types.h /usr/include/machine/_types.h Getopt.h \
+  /usr/include/libgen.h /usr/include/pthread.h \
+  /usr/include/sys/_pthreadtypes.h /usr/include/machine/_limits.h \
+  /usr/include/sys/_sigset.h /usr/include/sched.h /usr/include/time.h \
+  /usr/include/sys/timespec.h /usr/include/sys/_timespec.h \
+  /usr/include/stdlib.h /usr/include/string.h /usr/include/strings.h \
+  /usr/include/readline/readline.h /usr/include/readline/rlstdc.h \
+  /usr/include/readline/rltypedefs.h /usr/include/readline/keymaps.h \
+  /usr/include/readline/chardefs.h /usr/include/ctype.h \
+  /usr/include/_ctype.h /usr/include/runetype.h \
+  /usr/include/readline/tilde.h /usr/include/readline/history.h
+
+../include/config.h:
+
+shell.h:
+
+shell_types.h:
+
+/usr/include/stdio.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/sys/_null.h:
+
+/usr/include/sys/_types.h:
+
+/usr/include/machine/_types.h:
+
+Getopt.h:
+
+/usr/include/libgen.h:
+
+/usr/include/pthread.h:
+
+/usr/include/sys/_pthreadtypes.h:
+
+/usr/include/machine/_limits.h:
+
+/usr/include/sys/_sigset.h:
+
+/usr/include/sched.h:
+
+/usr/include/time.h:
+
+/usr/include/sys/timespec.h:
+
+/usr/include/sys/_timespec.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/string.h:
+
+/usr/include/strings.h:
+
+/usr/include/readline/readline.h:
+
+/usr/include/readline/rlstdc.h:
+
+/usr/include/readline/rltypedefs.h:
+
+/usr/include/readline/keymaps.h:
+
+/usr/include/readline/chardefs.h:
+
+/usr/include/ctype.h:
+
+/usr/include/_ctype.h:
+
+/usr/include/runetype.h:
+
+/usr/include/readline/tilde.h:
+
+/usr/include/readline/history.h:

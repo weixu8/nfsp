@@ -1,0 +1,27 @@
+avl.lo avl.o: avl.c ../include/config.h /usr/include/assert.h \
+  /usr/include/sys/cdefs.h ../include/avltree.h /usr/include/stdint.h \
+  /usr/include/sys/_types.h /usr/include/machine/_types.h \
+  /usr/include/machine/_stdint.h /usr/include/sys/_stdint.h \
+  /usr/include/stddef.h /usr/include/sys/_null.h
+
+../include/config.h:
+
+/usr/include/assert.h:
+
+/usr/include/sys/cdefs.h:
+
+../include/avltree.h:
+
+/usr/include/stdint.h:
+
+/usr/include/sys/_types.h:
+
+/usr/include/machine/_types.h:
+
+/usr/include/machine/_stdint.h:
+
+/usr/include/sys/_stdint.h:
+
+/usr/include/stddef.h:
+
+/usr/include/sys/_null.h:

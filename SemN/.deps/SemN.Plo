@@ -1,0 +1,44 @@
+SemN.lo SemN.o: SemN.c ../include/config.h /usr/include/errno.h \
+  /usr/include/sys/cdefs.h ../include/SemN.h /usr/include/pthread.h \
+  /usr/include/sys/_pthreadtypes.h /usr/include/machine/_limits.h \
+  /usr/include/machine/_types.h /usr/include/sys/_sigset.h \
+  /usr/include/sched.h /usr/include/sys/_types.h /usr/include/time.h \
+  /usr/include/sys/_null.h /usr/include/sys/timespec.h \
+  /usr/include/sys/_timespec.h /usr/include/semaphore.h \
+  /usr/include/sys/_umtx.h /usr/include/stdio.h
+
+../include/config.h:
+
+/usr/include/errno.h:
+
+/usr/include/sys/cdefs.h:
+
+../include/SemN.h:
+
+/usr/include/pthread.h:
+
+/usr/include/sys/_pthreadtypes.h:
+
+/usr/include/machine/_limits.h:
+
+/usr/include/machine/_types.h:
+
+/usr/include/sys/_sigset.h:
+
+/usr/include/sched.h:
+
+/usr/include/sys/_types.h:
+
+/usr/include/time.h:
+
+/usr/include/sys/_null.h:
+
+/usr/include/sys/timespec.h:
+
+/usr/include/sys/_timespec.h:
+
+/usr/include/semaphore.h:
+
+/usr/include/sys/_umtx.h:
+
+/usr/include/stdio.h:

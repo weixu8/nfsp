@@ -1,0 +1,108 @@
+RW_Lock.lo RW_Lock.o: RW_Lock.c ../include/config.h \
+  /usr/include/pthread.h /usr/include/sys/cdefs.h \
+  /usr/include/sys/_pthreadtypes.h /usr/include/machine/_limits.h \
+  /usr/include/machine/_types.h /usr/include/sys/_sigset.h \
+  /usr/include/sched.h /usr/include/sys/_types.h /usr/include/time.h \
+  /usr/include/sys/_null.h /usr/include/sys/timespec.h \
+  /usr/include/sys/_timespec.h /usr/include/stdio.h /usr/include/stdlib.h \
+  /usr/include/string.h /usr/include/strings.h \
+  /usr/local/include/execinfo.h ../include/RW_Lock.h ../include/log.h \
+  /usr/include/stdarg.h /usr/include/sys/types.h \
+  /usr/include/machine/endian.h /usr/include/sys/_stdint.h \
+  /usr/include/sys/select.h /usr/include/sys/_timeval.h \
+  /usr/include/sys/param.h /usr/include/sys/syslimits.h \
+  /usr/include/sys/signal.h /usr/include/machine/signal.h \
+  /usr/include/machine/trap.h /usr/include/machine/param.h \
+  /usr/include/machine/_align.h /usr/include/x86/_align.h \
+  /usr/include/sys/limits.h /usr/include/syslog.h /usr/include/inttypes.h \
+  /usr/include/machine/_inttypes.h /usr/include/x86/_inttypes.h \
+  /usr/include/sys/stdint.h /usr/include/machine/_stdint.h \
+  /usr/include/errno.h ../include/common_utils.h /usr/include/assert.h
+
+../include/config.h:
+
+/usr/include/pthread.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/sys/_pthreadtypes.h:
+
+/usr/include/machine/_limits.h:
+
+/usr/include/machine/_types.h:
+
+/usr/include/sys/_sigset.h:
+
+/usr/include/sched.h:
+
+/usr/include/sys/_types.h:
+
+/usr/include/time.h:
+
+/usr/include/sys/_null.h:
+
+/usr/include/sys/timespec.h:
+
+/usr/include/sys/_timespec.h:
+
+/usr/include/stdio.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/string.h:
+
+/usr/include/strings.h:
+
+/usr/local/include/execinfo.h:
+
+../include/RW_Lock.h:
+
+../include/log.h:
+
+/usr/include/stdarg.h:
+
+/usr/include/sys/types.h:
+
+/usr/include/machine/endian.h:
+
+/usr/include/sys/_stdint.h:
+
+/usr/include/sys/select.h:
+
+/usr/include/sys/_timeval.h:
+
+/usr/include/sys/param.h:
+
+/usr/include/sys/syslimits.h:
+
+/usr/include/sys/signal.h:
+
+/usr/include/machine/signal.h:
+
+/usr/include/machine/trap.h:
+
+/usr/include/machine/param.h:
+
+/usr/include/machine/_align.h:
+
+/usr/include/x86/_align.h:
+
+/usr/include/sys/limits.h:
+
+/usr/include/syslog.h:
+
+/usr/include/inttypes.h:
+
+/usr/include/machine/_inttypes.h:
+
+/usr/include/x86/_inttypes.h:
+
+/usr/include/sys/stdint.h:
+
+/usr/include/machine/_stdint.h:
+
+/usr/include/errno.h:
+
+../include/common_utils.h:
+
+/usr/include/assert.h:

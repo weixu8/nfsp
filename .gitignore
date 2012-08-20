@@ -1,0 +1,17 @@
+*.o
+*.lo
+*.la
+.libs
+cscope.*
+Makefile
+config.log
+config.status
+*yacc.*
+*lex.*
+shell/proxy.ganeshell
+libtool
+include/config.h
+cmdline_tools/proxy.ganesha.convertFH
+check/layers/maketest.conf
+MainNFSD/proxy.ganesha.nfsd
+
