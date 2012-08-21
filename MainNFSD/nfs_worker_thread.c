@@ -1777,6 +1777,7 @@ enum auth_stat AuthenticateRequest(nfs_request_data_t *pnfsreq,
 #ifdef _HAVE_GSSAPI
   if((why = Rpcsecgss__authenticate(preq, pmsg, no_dispatch)) != AUTH_OK)
 #else
+    /* TODO cloudforce */
     if(0/*(why = _authenticate(preq, pmsg)) != AUTH_OK*/)
 #endif
     {
